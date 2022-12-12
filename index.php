@@ -9,7 +9,6 @@
                     <div class="col-lg-4 valign">
 
                         <div class="skills">
-
                             <div class="section-head">
                                 <h4>About Me</h4>
                             </div>
